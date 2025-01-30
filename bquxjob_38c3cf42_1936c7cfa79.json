@@ -1,0 +1,585 @@
+[{
+  "order_id": "874",
+  "customer_id": "661",
+  "order_date": "2017-05-04",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "133",
+  "discount_amt": "7"
+}, {
+  "order_id": "380",
+  "customer_id": "1156",
+  "order_date": "2016-08-19",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "180",
+  "discount_amt": "8"
+}, {
+  "order_id": "919",
+  "customer_id": "781",
+  "order_date": "2017-05-30",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "286",
+  "discount_amt": "8"
+}, {
+  "order_id": "1468",
+  "customer_id": "3",
+  "order_date": "2018-03-27",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "279",
+  "discount_amt": "9"
+}, {
+  "order_id": "1531",
+  "customer_id": "233",
+  "order_date": "2018-04-13",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "153",
+  "discount_amt": "9"
+}, {
+  "order_id": "382",
+  "customer_id": "199",
+  "order_date": "2016-08-20",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "230",
+  "discount_amt": "10"
+}, {
+  "order_id": "597",
+  "customer_id": "1121",
+  "order_date": "2016-12-08",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "277",
+  "discount_amt": "11"
+}, {
+  "order_id": "1297",
+  "customer_id": "108",
+  "order_date": "2017-12-14",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "133",
+  "discount_amt": "11"
+}, {
+  "order_id": "557",
+  "customer_id": "1248",
+  "order_date": "2016-11-14",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "264",
+  "discount_amt": "12"
+}, {
+  "order_id": "1382",
+  "customer_id": "1303",
+  "order_date": "2018-02-06",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "193",
+  "discount_amt": "12"
+}, {
+  "order_id": "390",
+  "customer_id": "576",
+  "order_date": "2016-08-22",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "235",
+  "discount_amt": "14"
+}, {
+  "order_id": "614",
+  "customer_id": "654",
+  "order_date": "2016-12-18",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "270",
+  "discount_amt": "14"
+}, {
+  "order_id": "1372",
+  "customer_id": "1013",
+  "order_date": "2018-01-29",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "209",
+  "discount_amt": "14"
+}, {
+  "order_id": "816",
+  "customer_id": "811",
+  "order_date": "2017-04-03",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "108",
+  "discount_amt": "15"
+}, {
+  "order_id": "1605",
+  "customer_id": "123",
+  "order_date": "2018-07-01",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "295",
+  "discount_amt": "15"
+}, {
+  "order_id": "263",
+  "customer_id": "1322",
+  "order_date": "2016-06-09",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "241",
+  "discount_amt": "16"
+}, {
+  "order_id": "840",
+  "customer_id": "372",
+  "order_date": "2017-04-15",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "207",
+  "discount_amt": "16"
+}, {
+  "order_id": "1029",
+  "customer_id": "407",
+  "order_date": "2017-07-29",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "128",
+  "discount_amt": "17"
+}, {
+  "order_id": "1228",
+  "customer_id": "1041",
+  "order_date": "2017-11-04",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "133",
+  "discount_amt": "18"
+}, {
+  "order_id": "1292",
+  "customer_id": "285",
+  "order_date": "2017-12-10",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "165",
+  "discount_amt": "18"
+}, {
+  "order_id": "886",
+  "customer_id": "1396",
+  "order_date": "2017-05-13",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "146",
+  "discount_amt": "19"
+}, {
+  "order_id": "257",
+  "customer_id": "1314",
+  "order_date": "2016-06-05",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "186",
+  "discount_amt": "21"
+}, {
+  "order_id": "290",
+  "customer_id": "202",
+  "order_date": "2016-06-28",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "174",
+  "discount_amt": "21"
+}, {
+  "order_id": "920",
+  "customer_id": "966",
+  "order_date": "2017-05-30",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "251",
+  "discount_amt": "21"
+}, {
+  "order_id": "761",
+  "customer_id": "1291",
+  "order_date": "2017-03-07",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "195",
+  "discount_amt": "24"
+}, {
+  "order_id": "982",
+  "customer_id": "1423",
+  "order_date": "2017-06-26",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "223",
+  "discount_amt": "24"
+}, {
+  "order_id": "164",
+  "customer_id": "610",
+  "order_date": "2016-04-07",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "275",
+  "discount_amt": "25"
+}, {
+  "order_id": "1070",
+  "customer_id": "596",
+  "order_date": "2017-08-17",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "295",
+  "discount_amt": "25"
+}, {
+  "order_id": "31",
+  "customer_id": "1238",
+  "order_date": "2016-01-20",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "255",
+  "discount_amt": "26"
+}, {
+  "order_id": "44",
+  "customer_id": "861",
+  "order_date": "2016-01-28",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "124",
+  "discount_amt": "27"
+}, {
+  "order_id": "394",
+  "customer_id": "522",
+  "order_date": "2016-08-26",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "126",
+  "discount_amt": "27"
+}, {
+  "order_id": "1241",
+  "customer_id": "1170",
+  "order_date": "2017-11-10",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "168",
+  "discount_amt": "27"
+}, {
+  "order_id": "459",
+  "customer_id": "874",
+  "order_date": "2016-09-25",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "228",
+  "discount_amt": "28"
+}, {
+  "order_id": "657",
+  "customer_id": "349",
+  "order_date": "2017-01-17",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "124",
+  "discount_amt": "28"
+}, {
+  "order_id": "354",
+  "customer_id": "551",
+  "order_date": "2016-08-03",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "202",
+  "discount_amt": "29"
+}, {
+  "order_id": "1162",
+  "customer_id": "888",
+  "order_date": "2017-10-01",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "192",
+  "discount_amt": "29"
+}, {
+  "order_id": "1265",
+  "customer_id": "950",
+  "order_date": "2017-11-24",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "264",
+  "discount_amt": "29"
+}, {
+  "order_id": "1515",
+  "customer_id": "61",
+  "order_date": "2018-04-10",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "122",
+  "discount_amt": "29"
+}, {
+  "order_id": "438",
+  "customer_id": "314",
+  "order_date": "2016-09-16",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "174",
+  "discount_amt": "30"
+}, {
+  "order_id": "624",
+  "customer_id": "814",
+  "order_date": "2016-12-24",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "130",
+  "discount_amt": "31"
+}, {
+  "order_id": "875",
+  "customer_id": "386",
+  "order_date": "2017-05-05",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "282",
+  "discount_amt": "31"
+}, {
+  "order_id": "1363",
+  "customer_id": "860",
+  "order_date": "2018-01-24",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "246",
+  "discount_amt": "31"
+}, {
+  "order_id": "782",
+  "customer_id": "1298",
+  "order_date": "2017-03-15",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "149",
+  "discount_amt": "32"
+}, {
+  "order_id": "1436",
+  "customer_id": "1044",
+  "order_date": "2018-03-14",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "232",
+  "discount_amt": "32"
+}, {
+  "order_id": "224",
+  "customer_id": "157",
+  "order_date": "2016-05-17",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "153",
+  "discount_amt": "33"
+}, {
+  "order_id": "1126",
+  "customer_id": "1213",
+  "order_date": "2017-09-14",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "278",
+  "discount_amt": "33"
+}, {
+  "order_id": "533",
+  "customer_id": "1334",
+  "order_date": "2016-10-29",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "192",
+  "discount_amt": "34"
+}, {
+  "order_id": "307",
+  "customer_id": "695",
+  "order_date": "2016-07-09",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "217",
+  "discount_amt": "36"
+}, {
+  "order_id": "603",
+  "customer_id": "1032",
+  "order_date": "2016-12-09",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "109",
+  "discount_amt": "36"
+}, {
+  "order_id": "1229",
+  "customer_id": "89",
+  "order_date": "2017-11-05",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "101",
+  "discount_amt": "36"
+}, {
+  "order_id": "699",
+  "customer_id": "958",
+  "order_date": "2017-02-06",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "148",
+  "discount_amt": "37"
+}, {
+  "order_id": "678",
+  "customer_id": "250",
+  "order_date": "2017-01-28",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "150",
+  "discount_amt": "38"
+}, {
+  "order_id": "1023",
+  "customer_id": "356",
+  "order_date": "2017-07-23",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "214",
+  "discount_amt": "38"
+}, {
+  "order_id": "255",
+  "customer_id": "801",
+  "order_date": "2016-06-03",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "126",
+  "discount_amt": "39"
+}, {
+  "order_id": "308",
+  "customer_id": "156",
+  "order_date": "2016-07-11",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "207",
+  "discount_amt": "39"
+}, {
+  "order_id": "810",
+  "customer_id": "153",
+  "order_date": "2017-04-01",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "217",
+  "discount_amt": "39"
+}, {
+  "order_id": "941",
+  "customer_id": "736",
+  "order_date": "2017-06-12",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "221",
+  "discount_amt": "39"
+}, {
+  "order_id": "1090",
+  "customer_id": "1427",
+  "order_date": "2017-08-24",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "125",
+  "discount_amt": "39"
+}, {
+  "order_id": "1256",
+  "customer_id": "458",
+  "order_date": "2017-11-19",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "110",
+  "discount_amt": "39"
+}, {
+  "order_id": "1415",
+  "customer_id": "839",
+  "order_date": "2018-03-03",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "241",
+  "discount_amt": "39"
+}, {
+  "order_id": "1574",
+  "customer_id": "124",
+  "order_date": "2018-04-23",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "169",
+  "discount_amt": "39"
+}, {
+  "order_id": "685",
+  "customer_id": "976",
+  "order_date": "2017-01-31",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "128",
+  "discount_amt": "40"
+}, {
+  "order_id": "930",
+  "customer_id": "1224",
+  "order_date": "2017-06-05",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "204",
+  "discount_amt": "41"
+}, {
+  "order_id": "167",
+  "customer_id": "1034",
+  "order_date": "2016-04-08",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "230",
+  "discount_amt": "42"
+}, {
+  "order_id": "841",
+  "customer_id": "428",
+  "order_date": "2017-04-15",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "252",
+  "discount_amt": "43"
+}, {
+  "order_id": "98",
+  "customer_id": "1194",
+  "order_date": "2016-02-28",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "187",
+  "discount_amt": "45"
+}, {
+  "order_id": "296",
+  "customer_id": "1245",
+  "order_date": "2016-07-04",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "183",
+  "discount_amt": "46"
+}, {
+  "order_id": "356",
+  "customer_id": "1189",
+  "order_date": "2016-08-04",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "207",
+  "discount_amt": "46"
+}, {
+  "order_id": "809",
+  "customer_id": "1222",
+  "order_date": "2017-03-31",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "225",
+  "discount_amt": "46"
+}, {
+  "order_id": "37",
+  "customer_id": "164",
+  "order_date": "2016-01-25",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "286",
+  "discount_amt": "48"
+}, {
+  "order_id": "1000",
+  "customer_id": "645",
+  "order_date": "2017-07-12",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "244",
+  "discount_amt": "48"
+}, {
+  "order_id": "1566",
+  "customer_id": "72",
+  "order_date": "2018-04-21",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "291",
+  "discount_amt": "48"
+}, {
+  "order_id": "1440",
+  "customer_id": "859",
+  "order_date": "2018-03-15",
+  "store_id": "102",
+  "staff_id": "1006",
+  "invoice_amt": "214",
+  "discount_amt": "49"
+}]
